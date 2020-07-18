@@ -22,9 +22,9 @@
       href="https://github.com/vercel/vercel/tree/master/examples/svelte"
       target="_blank"
       rel="noreferrer noopener">
-      This project
+      Project ini
     </a>
-    is a
+    adalah menggunakan
     <a href="https://svelte.dev/">Svelte</a>
     app with three directories,
     <code>/public</code>
