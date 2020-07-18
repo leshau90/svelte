@@ -1,7 +1,6 @@
 <script>
   import { onMount } from "svelte";
   export let date;
-
   onMount(async () => {
     const res = await fetch("/api/date");
     const newDate = await res.text();
@@ -12,7 +11,7 @@
 <main>
   <h1>Svelte + Node.js API</h1>
   <h2>
-    Deployed with
+    Dideploy menggunakan
     <a href="https://vercel.com/docs" target="_blank" rel="noreferrer noopener">
       Vercel
     </a>
